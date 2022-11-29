@@ -1,0 +1,15 @@
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-7\obj\Debug\net6.0\hometask-7.csproj.AssemblyReference.cache
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-7\obj\Debug\net6.0\hometask-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-7\obj\Debug\net6.0\hometask-7.AssemblyInfoInputs.cache
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-7\obj\Debug\net6.0\hometask-7.AssemblyInfo.cs
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-7\obj\Debug\net6.0\hometask-7.csproj.CoreCompileInputs.cache
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-7\bin\Debug\net6.0\hometask-7.exe
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-7\bin\Debug\net6.0\hometask-7.deps.json
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-7\bin\Debug\net6.0\hometask-7.runtimeconfig.json
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-7\bin\Debug\net6.0\hometask-7.dll
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-7\bin\Debug\net6.0\hometask-7.pdb
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-7\obj\Debug\net6.0\hometask-7.dll
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-7\obj\Debug\net6.0\refint\hometask-7.dll
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-7\obj\Debug\net6.0\hometask-7.pdb
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-7\obj\Debug\net6.0\hometask-7.genruntimeconfig.cache
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-7\obj\Debug\net6.0\ref\hometask-7.dll
